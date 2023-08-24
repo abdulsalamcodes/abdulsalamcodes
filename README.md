@@ -12,6 +12,7 @@ Hello there! I'm Abdulsalam, a passionate and innovative Frontend Developer with
 
 - JavaScript (ES6+)
 - React.js
+- React Native
 - TypeScript
 - Next.js
 - Node.js
@@ -28,13 +29,13 @@ Hello there! I'm Abdulsalam, a passionate and innovative Frontend Developer with
 
 You can find some of my notable projects here:
 
-- [Spendns](https://spendns.vercel.app/login): A web app built with React and Redux, showcasing my expertise in state management and UI design.
-- [Sychronize](https://sychronize.vercel.app/): An interactive and responsive website developed with Next.js, highlighting my skills in building high-performance applications.
-- [Codesphere](https://main.d23lss9qnklclj.amplifyapp.com/): A GraphQL-powered application demonstrating my proficiency in working with modern APIs.
+- [Spendns](https://spendns.vercel.app/login): An intuitive web application designed to empower users in managing their personal financial activities.
+- [Sychronize](https://sychronize.vercel.app/): An innovative productivity solution that harmonizes your workflow by unifying diverse productivity tools within a single, streamlined application.
+- [Codesphere](https://main.d23lss9qnklclj.amplifyapp.com/): A focused and immersive social media platform tailored for developers to seamlessly connect, collaborate, and exchange code snippets and innovative ideas
 
 ## Get in Touch
 
-📧 Email: [your.email@example.com](mailto:abdulsalamabodunrin369@example.com)
+📧 Email: [Email Account](mailto:abdulsalamabodunrin369@gmail.com)
 
 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abodunrin-abdulsalam-226172195/)
 
