@@ -10,31 +10,31 @@ Hello there! I'm Abdulsalam, a passionate and innovative Software Developer with
 ## Skills
 
 **Programming Languages:**
-1. JavaScript (ES6+)
-2. TypeScript
+- JavaScript (ES6+)
+- TypeScript
 
 **Front-End Frameworks/Libraries:**
-3. React.js
-4. React Native
+- React.js
+- React Native
 
 **Front-End Tools/Technologies:**
-5. Next.js
-6. HTML5 & CSS3
-7. Redux
-8. MobX
-9. GraphQL
-10. Tailwind CSS
+- Next.js
+- HTML5 & CSS3
+- Redux
+- MobX
+- GraphQL
+- Tailwind CSS
 
 **Back-End/Server-Side:**
-11. Node.js
+- Node.js
 
 **Databases:**
-12. MongoDB
-13. PostgreSQL
+- MongoDB
+- PostgreSQL
 
 **API Development:**
-14. RESTful APIs
-15. Git & GitHub
+- RESTful APIs
+- Git & GitHub
 
 ## Portfolio
 
