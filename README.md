@@ -2,28 +2,14 @@
 
 ## About Me
 
-Hello there! I'm Abdulsalam, a passionate and innovative Frontend Developer with a strong focus on creating user-centric web experiences. I thrive on pushing the boundaries of technology and constantly seek opportunities to learn and grow in the ever-evolving world of web development.
+Hello there! I'm Abdulsalam, a passionate and innovative Software Developer with a strong focus on creating user-centric web experiences. I thrive on pushing the boundaries of technology and constantly seek opportunities to learn and grow in the ever-evolving world of web development.
 
-- 💼 Currently working as a Frontend Developer at Entre
 - 🚀 Seeking exciting opportunities to contribute to impactful projects and collaborate with talented teams
 - 🌱 Constantly exploring new technologies and frameworks to stay at the forefront of the industry
 
 ## Skills
 
-- JavaScript (ES6+)
-- React.js
-- React Native
-- TypeScript
-- Next.js
-- Node.js
-- MongoDB
-- Redux
-- MobX
-- GraphQL
-- HTML5 & CSS3
-- RESTful APIs
-- Git & GitHub
-- Tailwind
+- JavaScript (ES6+) - React.js - React Native - TypeScript - Next.js - Node.js - MongoDB - Redux - MobX - GraphQL - HTML5 & CSS3 - RESTful APIs - Git & GitHub - Tailwind
 
 ## Portfolio
 
