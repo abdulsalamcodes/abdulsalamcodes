@@ -1,11 +1,6 @@
- # Welcome to Abdulsalam's GitHub Profile 👋
+ # Welcome 👋
 
-## About Me
-
-Hello there! I'm Abdulsalam, a passionate and innovative Software Developer with a strong focus on creating user-centric web experiences. I thrive on pushing the boundaries of technology and constantly seek opportunities to learn and grow in the ever-evolving world of web development.
-
-- 🚀 Seeking exciting opportunities to contribute to impactful projects and collaborate with talented teams
-- 🌱 Constantly exploring new technologies and frameworks to stay at the forefront of the industry
+Hello there! I'm Abdulsalam, a passionate Software Developer with a strong focus on crafting user-centric solutions. I seek exciting opportunities to contribute to impactful projects and collaborate with talented teams. I am constantly learning new techniques, ways and approaches to create impactful solutions for emerging problems. I equally have a passion for educating and teaching my experience and knowledge to fellows and emerging developers. I currently share my learning through [my blog](https://abdulsalam.hashnode.dev/)
 
 ## Skills
 
@@ -20,7 +15,7 @@ Hello there! I'm Abdulsalam, a passionate and innovative Software Developer with
 **Front-End Tools/Technologies:**
 - Next.js
 - HTML5 & CSS3
-- Redux
+- Redux & Redux Toolkit
 - MobX
 - GraphQL
 - Tailwind CSS
@@ -38,10 +33,9 @@ Hello there! I'm Abdulsalam, a passionate and innovative Software Developer with
 
 ## Portfolio
 
-You can find some of my notable projects here:
+You can find some of my recent projects here:
 
 - [Spendns](https://spendns.vercel.app/login): An intuitive web application designed to empower users in managing their personal financial activities.
-- [Sychronize](https://sychronize.vercel.app/): An innovative productivity solution that harmonizes your workflow by unifying diverse productivity tools within a single, streamlined application.
 - [Codesphere](https://main.d23lss9qnklclj.amplifyapp.com/): A focused and immersive social media platform tailored for developers to seamlessly connect, collaborate, and exchange code snippets and innovative ideas
 
 ## Get in Touch
@@ -55,7 +49,3 @@ You can find some of my notable projects here:
 I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to explore my repositories, and if you find something interesting or have any suggestions, don't hesitate to reach out.
 
 Looking forward to building amazing projects together! 😊
-
----
-
-Thanks for visiting my GitHub profile! If you have any questions or need further information, feel free to contact me. Happy coding! 🚀
